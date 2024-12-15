@@ -1,0 +1,8 @@
+<!DOCTYPE suite>
+<suite name="AndroidTesting">
+	<test name="Phone">
+			<classes>
+				<class name="src.main.java.android_test.AndroidAppiumTest"></class>
+			</classes>
+	</test>
+</suite>
